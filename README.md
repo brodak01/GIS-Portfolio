@@ -11,8 +11,9 @@ I have multiple hobbies that I try my best to balance. I enjoy jogging and hikin
 
 # What I hope to learn
 
-I am excited to flesh out my GIS skills and learn more about more advanced actions in GIS. I enjoyed my Intro to GIS course, so I'm excited to continue learning about new skills in GIS! I also would like to work on a really nice map that I can use as an example of my work for interviews.
+For this course, I am hoping to flesh out my GIS skills and learn more advanced actions in GIS. I enjoyed my Intro to GIS course, so I'm excited to continue learning about new skills in GIS! I also would like to work on a nice map that I can use as an example of my work for future employers. I am interested in going into economic development in Southwestern PA, and I know this field often requires some familiarity with GIS.
 
 # Portfolio
 
 Here is where my map links will go.
+Final Project
