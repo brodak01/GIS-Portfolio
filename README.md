@@ -1,5 +1,5 @@
 # GIS-Portfolio
-This page displays the work I completed in Advanced GIS at Carnegie Mellon University.
+This page displays      the work I completed in Advanced GIS at Carnegie Mellon University.
 
 # About Me
 
