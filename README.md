@@ -16,5 +16,7 @@ For this course, I am hoping to flesh out my GIS skills and learn more advanced 
 # Portfolio
 
 Editing Base Maps:
+
 [The Nature Conservancy Basemap](Nature_Conservancy.md)
+
 Final Project
