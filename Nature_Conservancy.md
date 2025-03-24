@@ -26,6 +26,12 @@ My design philosophy was to focus on the main elements of the Nature Conservancy
 
 I didn't make the urban centers and man-made structures dark or depressing as the website's stated mission is to make a world where nature and human-impact can coalesce. Therefore, I didn't want to be super critical to human habitation while also addressing that there is a shift in the landscape. Therefore, I chose an off-white color as this still doesn't feel overbearingly against human settlements while aso remaining in line with the color theming of the website.
 
+Here are some more screenshots from the map:
+![Pittsburgh - The Point](Point.png)
+![Washington, PA](Washington.png)
+![New York City](NewYork.png)
+
+
 [
   {
     "elementType": "geometry",
