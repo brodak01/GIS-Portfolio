@@ -28,7 +28,9 @@ I didn't make the urban centers and man-made structures dark or depressing as th
 
 Here are some more screenshots from the map:
 ![Pittsburgh - The Point](Point.png)
+
 ![Washington, PA](Washington.png)
+
 ![New York City](NewYork.png)
 
 
