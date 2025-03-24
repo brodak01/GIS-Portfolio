@@ -33,6 +33,7 @@ Here are some more screenshots from the map:
 
 ![New York City](NewYork.png)
 
+![USA East Coast](EastCoast.png)
 
 [
   {
