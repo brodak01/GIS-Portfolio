@@ -1,5 +1,7 @@
 # The Nature Conservancy Website Map
 
+![Map to be used by the Nature Conservancy, Map of Pittsburgh and Surrounding Area](NaturePittsburgh.png)
+
 [
   {
     "elementType": "geometry",
