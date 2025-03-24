@@ -2,6 +2,29 @@
 
 ![Map to be used by the Nature Conservancy, Map of Pittsburgh and Surrounding Area](NaturePittsburgh.png)
 
+For this exercise, I chose [The Nature Conservancy](https://www.nature.org/en-us/) as my non-profit. This is an environmental organization that reonvests into natural areas and climate and ecological research.
+
+
+Here is a summary of my color pallete:
+
+Urban-Areas: #eeede7
+
+Natural Areas: #49a942
+
+Water: #517dad
+
+Points of Interest: #c5c081
+
+Parks: #d5d3b9
+
+Text Fill: #82c9bf
+
+Text Outline: #22374f
+
+My design philosophy was to focus on the main elements of the Nature Conservancy website, which was made of more natural colors such as whites, blues, and greens. I wanted the natral landscape to be green and water to be a nice blue, which are, of course, their natural colors. I used a brighter green and blue than their natural counterparts to really bring out a feeling of nature and purity. 
+
+I didn't make the urban centers and man-made structures dark or depressing as the website's stated mission is to make a world where nature and human-impact can coalesce. Therefore, I didn't want to be super critical to human habitation while also addressing that there is a shift in the landscape. Therefore, I chose an off-white color as this still doesn't feel overbearingly against human settlements while aso remaining in line with the color theming of the website.
+
 [
   {
     "elementType": "geometry",
