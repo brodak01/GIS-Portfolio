@@ -39,6 +39,30 @@ Here are some more screenshots from the map:
 
 ![USA West Coast](WestCoast.png)
 
+
+
+
+Lookup Table
+| Feature Type | Element Type | Stylers |
+|--------------|--------------|---------|
+| All | Labels/Text Fill | Color: #82c9bf |
+| Country | Geometry/Stroke | Color: #49a942 |
+| Province | Geometry/Stroke | Color: #49a942 |
+| Land Parcel | Labels/Text Fill | Color: #82c9bf |
+| Landscape/Human-made | Geometry/Stroke | Color: #eeede7 |
+| Landscape/Natural | Geometry | Color: #49a942 |
+| Points of Interest | Geometry | Color: #c5c081 |
+| Points of Interest | Labels/Text Fill | Color: #82c9bf |
+| POI/Park | Geometry | Color: #d5d3b9 |
+| POI/Park | Labels/Text Fill | Color: #82c9bf |
+| Road | Geometry | Color: #304a7d |
+| Road | Labels/Text Fill | Color: #82c9bf |
+| Road/Highway | Geometry | Color: #2c6675 |
+| Road/Highway | Labels/Text Fill | Color: #82c9bf |
+| Water | Geometry | Color: #517dad |
+| Water | Text Fill | Color: #82c9bf |
+
+
 [
   {
     "elementType": "geometry",
