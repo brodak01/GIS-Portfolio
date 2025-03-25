@@ -37,6 +37,8 @@ Here are some more screenshots from the map:
 
 ![USA East Coast](EastCoast.png)
 
+![USA West Coast](WestCoast.png)
+
 [
   {
     "elementType": "geometry",
