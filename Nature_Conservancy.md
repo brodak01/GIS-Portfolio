@@ -5,7 +5,7 @@
 [Downloadable JSON File](NatureConservatoryWebsite.json)
 ![Map to be used by the Nature Conservancy, Map of Pittsburgh and Surrounding Area](NaturePittsburgh.png)
 
-For this exercise, I chose [The Nature Conservancy](https://www.nature.org/en-us/) as my non-profit. This is an environmental organization that reonvests into natural areas and climate and ecological research.
+For this exercise, I chose [The Nature Conservancy](https://www.nature.org/en-us/) as my non-profit. This is an environmental organization that reinvests in natural areas and climate and ecological research.
 
 
 Here is a summary of my color pallete:
